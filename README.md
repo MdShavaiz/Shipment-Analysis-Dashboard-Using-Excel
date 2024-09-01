@@ -1,6 +1,5 @@
 # Shipment-Analysis-Dashboard-Using-Excel
-Shipping Analysis Project
-Overview
+Shipment Analysis Project Overview
 
 This project involves a comprehensive analysis of shipping data to gain insights into shipping performance and trends. The analysis is performed using three key tables: Shipping Data, Category, and Sub-Category.
 
@@ -28,3 +27,7 @@ Tools Used
 Power Query for data connection and transformation.
 Data models for creating relationships between tables.
 Dashboard tools for visualization and analysis.
+
+![Image Description](https://drive.google.com/uc?id=1BiieMjBt110jHL3-wZj62kGJb30OglrD)
+
+![Image Description](https://drive.google.com/uc?id=1BiieMjBt110jHL3-wZj62kGJb30OglrD)
